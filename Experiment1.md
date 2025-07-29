@@ -4,3 +4,5 @@ The way I chose to do this was to have three spheres representing the three plan
 
 When writing the code, I had some in-class help from Dave Webb, my professor, when learning 3d shapes in p5.js and camera angles, as these were topics we did not cover in class. There was also a period of time where I was struggling to get the inbuilt functions of second(), miunte(), and hour() to fit in my experiment, due to the fact that the three planet spheres are created using the same function with different parameters, and I received in-class advice on this as well. Aside from this, all the code is my own.
 
+[View working experiment here](/SpaceClock/index.html)
+
