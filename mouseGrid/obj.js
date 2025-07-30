@@ -1,4 +1,4 @@
-class myObj {
+class myRect {
   constructor(x,y){
     this.x = x;
     this.y = y;
@@ -7,7 +7,7 @@ class myObj {
   spin(){
     push()
     translate(this.x, this.y);
-    let angle = -atan2(mouseX - this.x, mouseY - this.y);
+    let angle = -atan2(-mouseX + this.x, -mouseY + this.y);
     rotate(angle);
     
     noStroke();
