@@ -1,0 +1,3 @@
+# Mouse Forcefield
+For the second experiment, the brief I chose to follow was: *Mouse disturber - a 'force field' from the mouse changes or moves an arrangement of shapes when the mouse is near or over them. Create three different variations of behaviour.* The three variations of behaviour in my experiment, all relative to the positions of the mouse on the screen, are angle, size, and colour.
+The rectangles, created using OOP, turn to face where the mouse is. Moving the mouse left and right or up and down alters the dimensions of the rectangles. Similarly, moving the mouse also changes the colours of the rectangles, but the colour of each individual rectangle is related to its own x and y coordinates.
