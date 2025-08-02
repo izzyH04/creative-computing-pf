@@ -7,3 +7,5 @@ I used [this](https://www.youtube.com/watch?v=4lCD9B4Dlik&t=459s) as the basis f
 I could have improved this by having individual rectangles change size instead of them all changing size/shape in the same way. Overall, I completed this particular experiment while handling some medical difficulties, so I consider it quite poor as a result, especially as I would have liked it to be more original.
 
 I would have liked to do particle physics. I plan to do so in my free time.
+
+[View working experiment here](/mouseGrid/index.html)
