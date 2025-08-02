@@ -2,6 +2,10 @@ For the third experiment, I chose to create a concrete poetry project. The poem 
 
 I attempted to place the words of the poem in such a way that it looked like a dog jumping to catch a blue ball (referencing the refrain of "They say that, from space/ the Earth looks like a/ small, blue ball") and a rocket blasting off next to it. The ball Laika is jumping for is blue, her collar is red, the rocket has a red cone and fins with orange "fire" coming out of it.
 
+[View working experiment here](/Concrete_Poetry_(Laika)/index.html)
+
+
+
 *First Dog in Space, Brennig Davies*
 
 They say that, from space,
