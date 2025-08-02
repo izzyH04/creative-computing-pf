@@ -2,6 +2,10 @@ For the third experiment, I chose to create a concrete poetry project. The poem 
 
 I attempted to place the words of the poem in such a way that it looked like a dog jumping to catch a blue ball (referencing the refrain of "They say that, from space/ the Earth looks like a/ small, blue ball") and a rocket blasting off next to it. The ball Laika is jumping for is blue, her collar is red, the rocket has a red cone and fins with orange "fire" coming out of it.
 
+There was no particular inspiration for the code, I just chose the concrete poetry option and was reminded of a poem that resonates with me. It's quite simplistic in some ways, as the image is static and mostly made of straight lines of text placed in such a way to fit the intended shape, but Laika's tail curves and looks quite nice, in my opinion.
+
+All code was written by me.
+
 [View working experiment here](/Concrete_Poetry_(Laika)/index.html)
 
 ---------------------------------------------------------------------
