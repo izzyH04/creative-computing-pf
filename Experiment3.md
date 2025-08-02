@@ -4,7 +4,7 @@ I attempted to place the words of the poem in such a way that it looked like a d
 
 [View working experiment here](/Concrete_Poetry_(Laika)/index.html)
 
-
+---------------------------------------------------------------------
 
 *First Dog in Space, Brennig Davies*
 
