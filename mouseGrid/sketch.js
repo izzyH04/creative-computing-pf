@@ -1,10 +1,11 @@
 let rows;
 let columns;
-let size = 20;
+let size;
 let rects = [];
 
 function setup() {
   createCanvas(600, 500);
+  let size = (height/width)*15;
   rectMode(CENTER);
   angleMode(DEGREES);
   
